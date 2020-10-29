@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>title</Title>
+            <Shortcut>short</Shortcut>
+            <Author>Ahmed zakaria</Author>
+            <Description> write you descriptio</Description>
+            <!--<SnippetTypes>
+                <SnippetType>Expansion</SnippetType>
+            </SnippetTypes>-->
+
+        </Header>
+        <Snippet>
+            <Declarations>
+               <Literal>
+                <ID>LiteralName</ID>
+                <ToolTip></ToolTip>
+                <Default>default val</Default>
+               </Literal>
+            </Declarations>
+            <Code Language="CSharp">
+                <![CDATA[]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>
